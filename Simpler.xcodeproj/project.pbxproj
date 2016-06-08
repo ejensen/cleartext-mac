@@ -91,33 +91,33 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		C84079D81C0786FA002EC6D4 /* dictionaries */ = {
+		C84079D81C0786FA002EC6D4 /* Dictionaries */ = {
 			isa = PBXGroup;
 			children = (
-				C802EE4D1D0778B0001DD9E3 /* Norsk.txt */,
-				C802EE4B1D077599001DD9E3 /* русский.txt */,
-				FF3187B01CCEC611003E294A /* Português.txt */,
-				FF3187AC1CCEC455003E294A /* Svenska.txt */,
-				FF3187AA1CCEC294003E294A /* Srpski.txt */,
-				FF3187A81CCEC062003E294A /* Hrvatski.txt */,
-				FF3187A61CCEBF6A003E294A /* Shqip.txt */,
 				FF3187A21CCEBE6B003E294A /* Bahasa.txt */,
 				FF3187A31CCEBE6B003E294A /* Čeština.txt */,
-				FF3187A01CCEBD87003E294A /* Íslenska.txt */,
-				FF31879E1CCEBD01003E294A /* Suomi.txt */,
-				FF31879A1CCEBC5B003E294A /* Deutsch.txt */,
 				FF31878F1CCEB001003E294A /* Dansk.txt */,
-				FF31878C1CCEAD68003E294A /* Français.txt */,
+				FF31879A1CCEBC5B003E294A /* Deutsch.txt */,
+				FF3187801CCEAA69003E294A /* English.txt */,
 				FF31878A1CCEACD0003E294A /* Español.txt */,
+				FF31878C1CCEAD68003E294A /* Français.txt */,
 				FF3187821CCEAC79003E294A /* Hemingway.txt */,
+				FF3187A81CCEC062003E294A /* Hrvatski.txt */,
+				FF3187A01CCEBD87003E294A /* Íslenska.txt */,
 				FF3187831CCEAC79003E294A /* Italiano.txt */,
 				FF3187841CCEAC79003E294A /* Jobs.txt */,
 				FF3187851CCEAC79003E294A /* Nederlands.txt */,
-				FF3187801CCEAA69003E294A /* English.txt */,
+				C802EE4D1D0778B0001DD9E3 /* Norsk.txt */,
+				FF3187B01CCEC611003E294A /* Português.txt */,
+				FF3187A61CCEBF6A003E294A /* Shqip.txt */,
+				FF3187AA1CCEC294003E294A /* Srpski.txt */,
+				FF31879E1CCEBD01003E294A /* Suomi.txt */,
+				FF3187AC1CCEC455003E294A /* Svenska.txt */,
 				C82978601CAA337E00839628 /* Trump.txt */,
 				C84079DB1C07FABE002EC6D4 /* xkcd.txt */,
+				C802EE4B1D077599001DD9E3 /* русский.txt */,
 			);
-			name = dictionaries;
+			path = Dictionaries;
 			sourceTree = "<group>";
 		};
 		C86C6F321C01A5EF00A21B0A = {
@@ -150,7 +150,7 @@
 				C86C6F441C01A5EF00A21B0A /* Assets.xcassets */,
 				C86C6F461C01A5EF00A21B0A /* Main.storyboard */,
 				C86C6F511C01AF7E00A21B0A /* SimpleWords.swift */,
-				C84079D81C0786FA002EC6D4 /* dictionaries */,
+				C84079D81C0786FA002EC6D4 /* Dictionaries */,
 				C86C6F491C01A5EF00A21B0A /* Info.plist */,
 			);
 			path = Simpler;
